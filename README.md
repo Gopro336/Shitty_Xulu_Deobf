@@ -3,7 +3,6 @@ This Is my attempt at a xulu deobf because ele was using jobf. Minecraft mapping
 
 <p> <img src="https://camo.githubusercontent.com/952e03ba61a0c0791238d9aa9d51afaaa03ef651/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f776e6c6f6164732d31336b2532466d6f6e74682d627269676874677265656e" alt="vievs" /> </p>
 
-Zenith and HackHack on top
 
 
 
